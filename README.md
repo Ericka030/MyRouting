@@ -39,4 +39,6 @@ Key features:
    cd
 Authors
 
-Collaborators: Alex Jong A Kiem
+Ericka Joseph
+
+Collaborator: Alex Jong A Kiem
